@@ -1,0 +1,39 @@
+{
+  "background_color": "#0c0000",
+  "description": "All about Fitness. If you love fitness like we do search no further. \nCalisthenics, Powerlifting and Crosstraining in a friendly environment. Download our App to have access to our booking system and our Blogs!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "BaseTYL",
+  "orientation": "portrait",
+  "scope": "/booking-base",
+  "short_name": "BaseTYL",
+  "start_url": "/",
+  "theme_color": "#746d6d",
+  "icons": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5ca30c37fd6793726b1c8bcf/1647432421480-2GDIJZOOI4I6KCBR6Y6R/favicon.ico?format=100w",
+      "type": "image/png",
+      "sizes": "100x105"
+    },
+    {
+      "src": "http://static1.squarespace.com/static/5ca30c37fd6793726b1c8bcf/t/6231d30714f43444cb38060e/1647432466363/public.png?format=1500w"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/png",
+      "sizes": "100x105"
+    }
+  ],
+  "id": "basetyl.app",
+  "lang": "en",
+  "shortcuts": [
+    {
+      "name": "Book",
+      "url": "basetyl.com/booking-base",
+      "description": "Book your appointment"
+    }
+  ],
+  "categories": [
+    "fitness"
+  ]
+}
