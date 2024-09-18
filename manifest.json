@@ -9,6 +9,7 @@
   "short_name": "BaseTYL",
   "start_url": "https://www.basetyl.com/",
   "theme_color": "#746d6d",
+  "form_factor": "wide",
   "icons": [
     {
       "src": "https://github.com/AndyKapo/pwa-manifest/raw/d3f3e62c3490709d4344d1b6966d5372aecfc0a1/%CE%91%CE%BD%CF%8E%CE%BD%CF%85%CE%BC%CE%BF%20%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF%20(2).png",
@@ -20,7 +21,7 @@
       "type": "image/png",
       "sizes": "512x512"
     },
-     {
+    {
       "src": "https://github.com/AndyKapo/pwa-manifest/raw/7312b76222e5829dfd0c88b897c6f08a3bc998a3/%CE%91%CE%BD%CF%8E%CE%BD%CF%85%CE%BC%CE%BF%20%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF%20(4).png",
       "type": "image/png",
       "sizes": "96x96"
@@ -32,10 +33,17 @@
     {
       "name": "Book",
       "url": "https://www.basetyl.com/booking-base",
-      "description": "Book your appointment"
+      "description": "Book your appointment",
+      "icons": [
+        {
+          "src": "https://github.com/AndyKapo/pwa-manifest/raw/7312b76222e5829dfd0c88b897c6f08a3bc998a3/%CE%91%CE%BD%CF%8E%CE%BD%CF%85%CE%BC%CE%BF%20%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF%20(4).png",
+          "sizes": "96x96"
+        }
+      ]
     }
   ],
   "categories": [
     "fitness"
   ]
 }
+
