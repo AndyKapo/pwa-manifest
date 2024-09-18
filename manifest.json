@@ -5,7 +5,7 @@
   "display": "standalone",
   "name": "BaseTYL",
   "orientation": "portrait",
-  "scope": "/booking-base",
+  "scope": "/",
   "short_name": "BaseTYL",
   "start_url": "/",
   "theme_color": "#746d6d",
