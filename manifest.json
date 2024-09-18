@@ -11,17 +11,14 @@
   "theme_color": "#746d6d",
   "icons": [
     {
-      "src": "https://images.squarespace-cdn.com/content/v1/5ca30c37fd6793726b1c8bcf/1647432421480-2GDIJZOOI4I6KCBR6Y6R/favicon.ico?format=100w",
+      "src": "https://github.com/AndyKapo/pwa-manifest/raw/d3f3e62c3490709d4344d1b6966d5372aecfc0a1/%CE%91%CE%BD%CF%8E%CE%BD%CF%85%CE%BC%CE%BF%20%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF%20(2).png",
       "type": "image/png",
-      "sizes": "100x105"
+      "sizes": "192x192"
     },
     {
-      "src": "http://static1.squarespace.com/static/5ca30c37fd6793726b1c8bcf/t/6231d30714f43444cb38060e/1647432466363/public.png?format=1500w"
-    },
-    {
-      "src": "/favicon.ico",
+      "src": "https://github.com/AndyKapo/pwa-manifest/raw/d3f3e62c3490709d4344d1b6966d5372aecfc0a1/%CE%91%CE%BD%CF%8E%CE%BD%CF%85%CE%BC%CE%BF%20%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF%20(3).png",
       "type": "image/png",
-      "sizes": "100x105"
+      "sizes": "512x512"
     }
   ],
   "id": "basetyl.app",
